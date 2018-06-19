@@ -18,9 +18,9 @@ public class AppComprarTelf {
 	}
 	public static void main(String[] args) {
 		
-		Cellphones objCellphone = new Cellphones();
+		//Cellphones objCellphone = new Cellphones();
 		
-		
+		showStringln("Hello!");
 		
 		
 		
